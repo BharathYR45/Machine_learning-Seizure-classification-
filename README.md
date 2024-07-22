@@ -1,4 +1,4 @@
-# Machine learning(Seizure classification)
+# Machine learning Project(Seizure classification)
 
 Title 
 **"Epileptic Seizure Classification - A Deep Learning Approach"**
