@@ -49,4 +49,4 @@ Evaluation: High precision, recall, and F1-score across seizure and non-seizure 
 - **Macro Average:** 0.97  
 - **Weighted Average:** 0.97
 
-You can access the research paper here https://ieeexplore.ieee.org/document/10649060
+You can access the published paper here https://ieeexplore.ieee.org/document/10649060
