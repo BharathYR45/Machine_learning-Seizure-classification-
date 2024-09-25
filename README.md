@@ -20,6 +20,8 @@ Healthy brain region activity
 Eyes closed
 Eyes open
 
+dataset link :https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition
+
 **Model Architecture**
 
 The CNN model includes:
